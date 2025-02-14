@@ -1,4 +1,4 @@
-# muza-enhancements-
+# muza-enhancements
 A dedicated space to propose and discuss new features for the Muza music project.
 
 Welcome to Muza Enhancements, the place where the community collaborates on ideas and improvements for the Muza music project. This repository is dedicated to discussing and refining new features that help shape Muza’s future.
